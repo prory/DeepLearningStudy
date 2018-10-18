@@ -1,3 +1,2 @@
-# Deep Learning study code
-
-test program
+# DeepLearningStudy
+Implementation for deep learning and machine learning study
